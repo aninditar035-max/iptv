@@ -20,15 +20,50 @@
     "showAdminButton": true,
     "adminButtonText": "Help",
     "adminUrl": "https://www.rsciptv.site/"
-    },
-    "TRIAL-KEY": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "1-Day Trial Started ⏳"
-    },
-    "MONTHLY-SUB": {
-      "expiry": "1m",
-      "interval": "2h",
-      "toast": "Monthly Access Granted ✅"
-    },
+  },
+  "123": {
+    "expiry": "2025-12-15",
+    "interval": "2h",
+    "toast": "Monthly Access Granted ✅"
+  },
+  "9073039534": {
+    "expiry": "2025-12-11",
+    "interval": "2h",
+    "toast": "Monthly Access Granted ✅"
+  },
+  "6295931465": {
+    "expiry": "2025-11-19",
+    "interval": "2h",
+    "toast": "Monthly Access Granted ✅"
+  },
+  "9609474461": {
+    "expiry": "2025-12-11",
+    "interval": "2h",
+    "toast": "Monthly Access Granted ✅"
+  },
+  "9732589121": {
+    "expiry": "2025-11-24",
+    "interval": "2h",
+    "toast": "Monthly Access Granted ✅"
+  },
+  "01936900222": {
+    "expiry": "2025-11-25",
+    "interval": "2h",
+    "toast": "Monthly Access Granted ✅"
+  },
+  "01916748940": {
+    "expiry": "2025-11-27",
+    "interval": "2h",
+    "toast": "Monthly Access Granted ✅"
+  },
+  "9874694215": {
+    "expiry": "2025-12-07",
+    "interval": "2h",
+    "toast": "Monthly Access Granted ✅"
+  },
+  "9007468737": {
+    "expiry": "2025-12-07",
+    "interval": "2h",
+    "toast": "Monthly Access Granted ✅"
   }
+}
