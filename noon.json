@@ -20,21 +20,15 @@
     "showAdminButton": true,
     "adminButtonText": "Help",
     "adminUrl": "https://www.rsciptv.site/"
-  },
-  "keys": {
-    "VIP-USER": {
-      "expiry": "2025-12-31",
-      "interval": "1week",
-      "toast": "Welcome back, VIP Legend! 👑"
     },
     "TRIAL-KEY": {
-      "expiry": "3d",
+      "expiry": "1d",
       "interval": "everytime",
-      "toast": "3-Day Trial Started ⏳"
+      "toast": "1-Day Trial Started ⏳"
     },
     "MONTHLY-SUB": {
       "expiry": "1m",
-      "interval": "1d",
+      "interval": "2h",
       "toast": "Monthly Access Granted ✅"
     },
   }
