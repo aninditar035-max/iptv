@@ -1,0 +1,41 @@
+{
+  "config": {
+    "country": "India",
+    "updateAvailable": false,
+    "themeColor": "#8e44ad",
+    "textColor": "#ffffff"
+  },
+  "loginDialog": {
+    "title": "Welcome To DPMods",
+    "subtitle": "If your Mobile Number is not registered, Contact Your operator. Otherwise please Login!",
+    "loginButtonText": "Login",
+    "adminButtonText": "Get Key",
+    "adminUrl": "https://www.rsciptv.site/"
+  },
+  "updateDialog": {
+    "title": "Critical Update!",
+    "subtitle": "A mandatory update is available. You cannot continue without updating.",
+    "downloadButtonText": "Update Now",
+    "downloadUrl": "https://www.rsciptv.site/",
+    "showAdminButton": true,
+    "adminButtonText": "Help",
+    "adminUrl": "https://www.rsciptv.site/"
+  },
+  "keys": {
+    "VIP-USER": {
+      "expiry": "2025-12-31",
+      "interval": "1week",
+      "toast": "Welcome back, VIP Legend! 👑"
+    },
+    "TRIAL-KEY": {
+      "expiry": "3d",
+      "interval": "everytime",
+      "toast": "3-Day Trial Started ⏳"
+    },
+    "MONTHLY-SUB": {
+      "expiry": "1m",
+      "interval": "1d",
+      "toast": "Monthly Access Granted ✅"
+    },
+  }
+}
